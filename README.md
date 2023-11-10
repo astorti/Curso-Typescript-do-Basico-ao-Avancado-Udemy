@@ -52,3 +52,15 @@ Neste módulo são apresentados diversos tipos e recursos do Typescript
 | Any | Propriedades Opcionais | Retornos de funções |
 | Symbol | Union Types |  |
 |   |   |   |
+
+
+### **04_NARROWING**
+
+Neste módulo foram apresentadas algumas maneiras de validação de tipos com Typescript.
+
+
+|   |   |   |
+|---|---|---|
+|   | **Conceitos Apresentados** |   |
+| Type Guard |  in operator | instanceof | 
+|   |   |   |
