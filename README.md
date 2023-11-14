@@ -91,3 +91,16 @@ Neste módulo é apresentado como utilizar as funções em Typescript.
 | unknown | parametro-default | parametros-opcionais |
 | void 
 |   |   |   |
+
+### **06_OBJECT_TYPES**
+
+Neste módulo foram apresentados alguns recursos na utilização de objects.
+
+
+|   |   |   |
+|---|---|---|
+|   | **Conceitos Apresentados** |   |
+| extending-types |  readonly-array | intersection-types |
+| index-signature | readonly | tuplas |
+| interface | 
+|   |   |   |
