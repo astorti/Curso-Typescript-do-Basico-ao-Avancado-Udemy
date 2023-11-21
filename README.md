@@ -104,3 +104,15 @@ Neste módulo foram apresentados alguns recursos na utilização de objects.
 | index-signature | readonly | tuplas |
 | interface | 
 |   |   |   |
+
+### **07_CRIAÇÃO_DE_TIPOS**
+
+Neste módulo foram apresentados diversos modos para criação de tipos.
+
+
+|   |   |   |
+|---|---|---|
+|   | **Conceitos Apresentados** |   |
+| conditional-expressions |  keyof-type-operator | template-literals |
+| index-access-types | typeof-type-operator | generic |
+|   |   |   |
