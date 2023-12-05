@@ -134,3 +134,8 @@ Neste módulo foi apresentado como utilizar classes com typescript.
 | private | static-members | generic-class | parameter-properties |
 | class-expressions | abstract-class | relationships-between-classes |  |
 |   |   |   |   |
+
+
+### **08_MODULES**
+
+Neste módulo foi apresentado como realizar exportação e importação de variáveis, funções, interface, tipo e utilização de "alias" para renomear itens importados.
