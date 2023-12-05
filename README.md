@@ -10,6 +10,8 @@
 >**Plataforma de ensino:**
 >>[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com) 
 
+>[<u>**Documentação Typescript**</u>](https://www.typescriptlang.org/)
+
 <hr/>
 <hr/>
 
@@ -116,3 +118,19 @@ Neste módulo foram apresentados diversos modos para criação de tipos.
 | conditional-expressions |  keyof-type-operator | template-literals |
 | index-access-types | typeof-type-operator | generic |
 |   |   |   |
+
+
+### **08_CLASSES**
+
+Neste módulo foi apresentado como utilizar classes com typescript.
+
+
+|   |   |   |   |
+|---|---|---|---|
+|   | **Conceitos Apresentados** |   |
+| fields |  constructor | readonly | heritage-and-super |
+| methods | this | getters | setters |
+| implements | overriding-methods | public | protected |
+| private | static-members | generic-class | parameter-properties |
+| class-expressions | abstract-class | relationships-between-classes |  |
+|   |   |   |   |
