@@ -136,6 +136,20 @@ Neste módulo foi apresentado como utilizar classes com typescript.
 |   |   |   |   |
 
 
-### **08_MODULES**
+### **09_MODULES**
 
 Neste módulo foi apresentado como realizar exportação e importação de variáveis, funções, interface, tipo e utilização de "alias" para renomear itens importados.
+
+
+### **10_DECORATORS**
+
+Neste módulo foram apresentados alguns exemplos de uso de decorators.
+
+
+|   |   |
+|---|---|
+|   **Conceitos Apresentados** |   |
+| acessor-decorator |  class-decorator | 
+| method-decorator | multiple-decorator | 
+| property-decorator |  | 
+|   |   |   
