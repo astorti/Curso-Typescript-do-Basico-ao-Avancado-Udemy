@@ -153,3 +153,19 @@ Neste módulo foram apresentados alguns exemplos de uso de decorators.
 | method-decorator | multiple-decorator | 
 | property-decorator |  | 
 |   |   |   
+
+### **11_REACT_TYPESCRIPT**
+
+Neste tópico foram apresentados os recursos do Typescript em conjunto com a biblioteca React.
+Entre os conceitos abordados estão:
+- criação de variáveis e funções, 
+- criação, exportação e importação de componentes,
+- destructuring,
+- enum,
+- types,
+- context,
+- hooks (useState, useContext)
+
+> **criação do projeto:** 
+>>npx create-react-app *nome_do_projeto* --template typescript
+
