@@ -44,14 +44,22 @@ Apresentado conceitos de tipos de variáveis em typescript, tipos de anotações
 #### **Comandos**
 
 > **compilação manual:** 
->>tsc .\index.ts
+
+```
+tsc .\index.ts
+```
 
 > **compilação automática:** 
->>tsc -w
+
+```
+tsc -w
+```
 
 > **criar arquivo tsconfig.json:** 
->>tsc --init
 
+```
+tsc --init
+```
 
 ### **03_TIPOS_TYPESCRIPT**
 
@@ -166,6 +174,25 @@ Entre os conceitos abordados estão:
 - context,
 - hooks (useState, useContext)
 
-> **criação do projeto:** 
->>npx create-react-app *nome_do_projeto* --template typescript
+**Para criar projeto React com Typescript:** 
+
+```
+npx create-react-app nome_do_projeto --template typescript
+```
+
+### **PROJETOS**
+
+Projetos apresentados no curso.
+
+>**1. Todo list**
+
+_Projeto de uma lista de tarefas, sendo possível criar, editar e excluir uma tarefa._
+
+>Desenvolvido com 
+>>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+
 
