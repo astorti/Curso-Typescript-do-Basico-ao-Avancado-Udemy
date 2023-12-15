@@ -180,6 +180,46 @@ Entre os conceitos abordados estão:
 npx create-react-app nome_do_projeto --template typescript
 ```
 
+### **12_EXPRESS_TYPESCRIPT**
+
+Neste tópico foram apresentados os recursos do Typescript em conjunto com o framework Express.
+
+> **Comandos para inicialização do projeto:** 
+
+```
+npm init -y
+```
+
+```
+npx tsc --init
+```
+
+> **Instalação dos pacotes de desenvolvimento:** 
+
+```
+npm install @types/express @types/node ts-node-dev typescript --save-dev
+```
+
+> **Instalação express:** 
+
+```
+npm install express
+```
+
+> **Configuração do arquivo "package.json":** 
+
+```
+"scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/app.ts"
+  },
+```
+
+> **Rodar o projeto":** 
+
+```
+npm run dev
+```
+
 ### **PROJETOS**
 
 Projetos apresentados no curso.
